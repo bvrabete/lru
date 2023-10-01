@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+
+# cmake generated files
+CMakeFiles/*
+*.cmake
+CMakeCache.txt
+out/*
+
+# Visual Studio and Visual Studio Code
+.vs/*
+.vscode/*
+
