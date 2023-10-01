@@ -43,3 +43,4 @@ out/*
 .vscode/*
 
 lru
+Makefile
