@@ -2,7 +2,6 @@
 #include <vector>
 #include <string>
 
-
 #include "lru.hpp"
 
 int main(void)
