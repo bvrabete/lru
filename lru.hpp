@@ -10,6 +10,7 @@ protected:
     int max_cache_size;
     std::list<std::string> cache;
     bool Remove(std::string key);
+
 public:
     bool Add(std::string key);
     void Print();
